@@ -1,4 +1,4 @@
-# eletjatek
+# Életjáték
 # Ezt a projektet egy egyetemi órára csináltam, Szoftver Technológiára, amelyen C# nyelven tanultunk.
 # A szabályok egyszerűek: megadunk egy random kezdőállapotot, amelyben egy cella vagy igaz vagy hamis értéket vesz fel. Ha igaz, akkor azon a cellán létrejön egy sejt. A következőkben körönként az alábbi szabályok szerint változnak a sejtek:
 # 1. A sejt túléli a kört, ha két vagy három szomszédja van.
